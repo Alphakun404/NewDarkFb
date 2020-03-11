@@ -1,7 +1,9 @@
 # DarkFB Termux
 
 <ul>
-<li><code>pkg install git python2</code></li>
+<li><code>pkg install git</code></li>
+<br />
+<li><code>pkg install python2</code></li>
 <br />
 <li><code>pip2 install --upgrade pip</code></li>
 <br />
