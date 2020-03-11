@@ -11,9 +11,6 @@
 <br />
 <li><code>pip2 install -r requirements.txt<code></li>
 <br />
-<li><code>cd NewDarkFb<code></li>
-<br />
-<li><code>python2 darkvip.py</code></li>
 </ul>
 <br />
 <br />
